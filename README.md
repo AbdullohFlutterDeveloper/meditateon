@@ -24,4 +24,4 @@
 <p> <a href="https://ibb.co/5cMDq8X"><img src="https://i.ibb.co/3hrXtN5/Screenshot-1641290817.png" alt="Screenshot-1641290817" border="0"  width=45%></a></p>
 
 
-<a href="./release/app-release.apk?raw=true">Download now</a>
+<a href="https://t.me/From_Python_with_AAA/371">Download now</a>
